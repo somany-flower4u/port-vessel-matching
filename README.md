@@ -146,6 +146,4 @@ torch나 LLM 가중치가 없으면 판정 단계만 건너뛰고 순위 모델�
 
 ## 라이선스
 
-코드는 [MIT License](LICENSE)를 따릅니다. Qwen3 가중치는 Qwen의 Apache-2.0 라이선스를 따르고, 대회 데이터는 DACON 대회 약관을 따릅니다. 둘 다 이 저장소에 포함되지 않습니다.
-
-이 프로젝트는 AI 코딩 에이전트(Claude Code)와 함께 개발했습니다.
+코드는 [MIT License](LICENSE)를 따릅니다. Qwen3 가중치는 Qwen의 Apache-2.0 라이선스를 따르고, 대회 데이터는 DACON 대회 약관을 따릅니다.
