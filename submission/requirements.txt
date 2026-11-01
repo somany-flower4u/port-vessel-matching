@@ -1,0 +1,1 @@
+# All required packages (numpy, pandas, lightgbm, rapidfuzz, unidecode; torch + transformers for the optional LLM judge) are preinstalled on the evaluation server.

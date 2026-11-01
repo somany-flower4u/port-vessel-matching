@@ -1,0 +1,27 @@
+# competition data and anything derived from it (not redistributable)
+data/
+*.csv
+*.tsv
+*.npz
+*.npy
+*.pkl
+*.parquet
+loan_en.txt
+# trained weights and model downloads
+*.pt
+*.safetensors
+*.bin
+submission/model/*/de/
+submission/model/*/lgb_seed*.txt
+submission/model/llm/Qwen3-*/
+# packaging / outputs
+*.zip
+output/
+logs/
+# local environments and caches
+.venv*/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
